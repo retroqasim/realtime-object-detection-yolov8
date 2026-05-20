@@ -108,11 +108,6 @@ CV Terminal/
 ├── video.py            # Video file processing module
 ├── webcam.py           # Live webcam stream detection module
 ├── .gitignore          # Git exclusion rules (ignores model weights and caches)
-├── image1.jpeg         # Sample test image
-├── image2.jpeg         # Sample test image
-├── video1.mp4          # Sample test video
-├── video2.mp4          # Sample test video
-├── video3.mp4          # Sample test video
 └── README.md           # Project Documentation
 ```
 
